@@ -15308,7 +15308,7 @@ function(e, t, n, i, r, o, s, a, l, u, c, h) {
     function f() {
         var e = u.getUrlParam("load_from") || "stored",
         t = n.getSavedEditorState(),
-        o = "121.46.0.81:9200";
+        o = "localhost:9200";
         if (document.location.pathname && 1 == document.location.pathname.indexOf("_plugin") && (o = document.location.host), "stored" == e) t ? d(t.server, t.content) : (d(o), i.autoIndent());
         else if (/^https?:\/\//.test(e)) {
             var s = {
