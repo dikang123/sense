@@ -12,6 +12,7 @@ Sense
   是一个不可多得的高效的查询工具。
 
   ![PNG](https://raw.githubusercontent.com/lufeng4828/sense/master/sense.png)
+  ![PNG](https://raw.githubusercontent.com/lufeng4828/sense/master/history.png)
 
 
 安装步骤
