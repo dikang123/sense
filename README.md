@@ -3,6 +3,8 @@ Sense
 
 一个flask写的elasticsearch查询工具
 
+  !(https://raw.githubusercontent.com/lufeng4828/sense/master/sense.png)
+
 
 安装步骤
 ===========
